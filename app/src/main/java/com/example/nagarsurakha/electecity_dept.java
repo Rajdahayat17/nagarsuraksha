@@ -101,6 +101,7 @@ public class electecity_dept extends AppCompatActivity {
                 imgPreview.setImageBitmap(photo); // photo ImageView me show
             }
         }
+
     }
 
     // Permission Result
