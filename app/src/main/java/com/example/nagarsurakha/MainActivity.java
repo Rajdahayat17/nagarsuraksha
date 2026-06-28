@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected String doInBackground(String... params) {
             String number = params[0];
+
             String password = params[1];
             StringBuilder result = new StringBuilder();
 
