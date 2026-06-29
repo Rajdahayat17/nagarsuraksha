@@ -100,6 +100,7 @@ public class electecity_dept extends AppCompatActivity {
                 Bitmap photo = (Bitmap) extras.get("data");
                 imgPreview.setImageBitmap(photo); // photo ImageView me show
             }
+
         }
 
     }
